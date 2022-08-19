@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on DevOps Projects to build my portfolio and to become market ready. I'm also working on some fun python projects.
+- 🌱 I’m currently learning Terraform and Kubernetes to prepare myself for ML-Ops.
+- 💬 Ask me about AWS services and python
+- 📫 How to reach me: https://www.linkedin.com/in/joshua-sackey-591366147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgI%2Bs6CTNRk%2BuxzuubzVUww%3D%3D
 
 <!--
 **yoophie97/yoophie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
